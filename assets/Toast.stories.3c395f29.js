@@ -1,0 +1,2 @@
+import{d as t}from"./index.df74c656.js";import"./index.49a4639d.js";import"./iframe.1342d76d.js";import"./index.fcc14de7.js";import"./jsx-runtime.052cc9d6.js";const a={title:"Alerts/Toast",component:t,args:{title:"Title"},argTypes:{children:{control:{type:null}}}},n={},p={args:{title:"Agendamento realizado",description:"Quarta-feira, 23 de Outubro \xE0s 16h"}},l=["Primary","WithDescription"];export{n as Primary,p as WithDescription,l as __namedExportsOrder,a as default};
+//# sourceMappingURL=Toast.stories.3c395f29.js.map
