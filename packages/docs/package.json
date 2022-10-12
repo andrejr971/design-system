@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@andrejr-dev/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,9 +27,9 @@
     "vite": "^3.1.7"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@andrejr-dev/eslint-config": "*",
+    "@andrejr-dev/react": "*",
+    "@andrejr-dev/tokens": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "polished": "^4.2.2",
     "react": "^18.2.0",
